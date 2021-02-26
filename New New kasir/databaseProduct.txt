@@ -1,0 +1,6 @@
+masako|masako21|23|1500
+kecap|kecap23|34|2000
+sarden|sarden123|45|2000
+abc|abc23|9|90000
+indomie|indomie23|9|8000
+sedap|sedap23|90|500
